@@ -14,6 +14,6 @@ Team part of Sprint 0. Contains a readme file, and a txt file to resolve conflic
 ```
 ## About<br>
 ```diff
-+ I am passionate about 3 things. CS, Football and Music```:musical_note::soccer:
++ I am passionate about 3 things. CS, Football and Music``` :musical_note::soccer:<br>
 ```diff
 - I Love travelling and FOOOD```
