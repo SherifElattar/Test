@@ -13,4 +13,7 @@ Team part of Sprint 0. Contains a readme file, and a txt file to resolve conflic
 + **Mayar Osama** *37-2492*<br>
 ```
 ## About<br>
-I am passionate about 3 things. CS, Football and Music  :musical_note::soccer:
+```diff
++ I am passionate about 3 things. CS, Football and Music```:musical_note::soccer:
+```diff
+- I Love travelling and FOOOD```
